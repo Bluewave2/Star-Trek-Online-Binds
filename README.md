@@ -30,7 +30,7 @@ Binds **F9** to instantly log the current character out and display the switch c
 
 Binds **ALT + F2** to two functions, **on short press** of the key combination it will enable the in-game sound, **on hold (1.5s)** it will disable the in-game sound.
 
-## 4. Legacy character overview menu (overview + inventory with one press)
+## 4. Legacy character overview menu behavior
 ```bind "u" "GenSendMessage Root ShowInventory $$ GenSendMessage Root ShowStatus"```
 
 Binds **U** display the character overview menu (default behavior) and also open the inventory alongside it (legacy behavior).

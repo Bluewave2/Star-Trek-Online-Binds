@@ -28,7 +28,7 @@ Binds **F9** to instantly log the current character out and display the switch c
 ## 3. Sound toggle
 ```/bind "alt+f2" "sndEnable" "sndDisable"```
 
-Binds **ALT + F2** to two functions, **on press** of the key combination it will enable the in-game sound, **on hold** it will disable the in-game sound.
+Binds **ALT + F2** to two functions, **on short press** of the key combination it will enable the in-game sound, **on hold (1.5s)** it will disable the in-game sound.
 
 ## 4. Legacy character overview menu (overview + inventory with one press)
 ```bind "u" "GenSendMessage Root ShowInventory $$ GenSendMessage Root ShowStatus"```
